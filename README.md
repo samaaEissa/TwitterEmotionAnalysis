@@ -21,8 +21,8 @@ great interest to allow all brands and all service providers. By getting the
 real feedback about services and improve it to meet people requirements as
 possible which will lead also to an increase in profit.
 
-![](D:/Faculty/Graduation Project/TwitterEmotionClassifier/Tweets.PNG)
+![](Tweets.PNG)
 
  
 
-![](D:/Faculty/Graduation Project/TwitterEmotionClassifier/Statistics.PNG)
+![](Statistics.PNG)
